@@ -9,4 +9,6 @@
 
 # It should be noted that the 2012 and 2013 NBA draft data is missing. 
 
+# Link to presentation https://ucsf.box.com/s/1hmj400aj7nlcruthawsdol3tqzsks9q
+
 # I downloaded this data from https://www.kaggle.com/datasets/wyattowalsh/basketball and I look specifically at the draft_history.csv
